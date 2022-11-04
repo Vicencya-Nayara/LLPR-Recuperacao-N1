@@ -6,10 +6,10 @@ setlocale(LC_ALL, "Portuguese_Brazil");
 	
  int inicio, fim;
  
-   printf("Qual o horario que o jogo inciciou: ");
+   printf("Qual o horario que o jogo iniciou: ");
    scanf("%d", &inicio);
     
-   printf("Qual a duração do jogo: ");
+   printf("Qual a duraÃ§Ã£o do jogo: ");
    scanf("%d", &fim);
  
   if(inicio<fim)
